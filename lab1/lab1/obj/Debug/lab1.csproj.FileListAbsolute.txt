@@ -1,0 +1,6 @@
+D:\KPI\c#\lab1\lab1\bin\Debug\lab1.exe.config
+D:\KPI\c#\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\KPI\c#\lab1\lab1\bin\Debug\lab1.exe
+D:\KPI\c#\lab1\lab1\bin\Debug\lab1.pdb
+D:\KPI\c#\lab1\lab1\obj\Debug\lab1.exe
+D:\KPI\c#\lab1\lab1\obj\Debug\lab1.pdb
